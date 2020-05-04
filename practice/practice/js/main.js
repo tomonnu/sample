@@ -11,7 +11,7 @@
 
     //if文でpassが間違っているときとあっているときの処理を分岐
     if (pass === password) {
-      location.href = 'nextpage/nextpage.html';
+      location.href = 'practice/nextpage/nextpage.html';
     } else {
       alert('passwordが違います。');
     }
