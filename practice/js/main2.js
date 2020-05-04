@@ -23,7 +23,7 @@
       
       //一番先頭の画像を変えるコード
       img1 = document.getElementById('sinagawa');
-      img1.src = 'css/IMG_0617.JPG';
+      img1.src = '../css/IMG_0617.JPG';
       mry1Img = document.querySelector('img#sinagawa');
       mry1Img.id = 'kumo';
       //一番目の画像の説明
@@ -32,7 +32,7 @@
         
       //二番目の画像を変えるコード
       img2 = document.getElementById('puri');
-      img2.src = 'css/IMG_0764.JPG';
+      img2.src = '../css/IMG_0764.JPG';
       mry2Img = document.querySelector('img#puri');
       mry2Img.id = 'ring';
       //二番目の画像の説明
@@ -41,7 +41,7 @@
             
       //最後の画像を変えるコード
       img3 = document.getElementById('usiro');
-      img3.src = 'css/IMG_1512.JPG';
+      img3.src = '../css/IMG_1512.JPG';
       mry3Img = document.querySelector('img#usiro');
       mry3Img.id = 'cake';
       //最後の画像の説明
@@ -60,7 +60,7 @@
                 
       //一番先頭の画像を変えるコード
       img1 = document.getElementById('kumo');
-      img1.src = 'css/IMG_1646.JPG';
+      img1.src = '../css/IMG_1646.JPG';
       mry1Img = document.querySelector('img#kumo');
       mry1Img.id = 'mira';
       //一番目の画像の説明
@@ -68,7 +68,7 @@
                 
       //二番目の画像を変えるコード
       img2 = document.getElementById('ring');
-      img2.src = 'css/IMG_2607.JPG';
+      img2.src = '../css/IMG_2607.JPG';
       mry2Img = document.querySelector('img#ring');
       mry2Img.id = 'ranmaru';
       //二番目の画像の説明
@@ -76,7 +76,7 @@
                        
       //最後の画像を変えるコード
       img3 = document.getElementById('cake');
-      img3.src = 'css/IMG_2713.JPG';
+      img3.src = '../css/IMG_2713.JPG';
       mry3Img = document.querySelector('img#cake');
       mry3Img.id = 'tomo';
       //最後の画像の説明
@@ -100,7 +100,7 @@
 
       //二番目の画像を変える
       img2 = document.getElementById('ranmaru');
-      img2.src = 'css/IMG_2666.JPG';
+      img2.src = '../css/IMG_2666.JPG';
       mry2Img = document.querySelector('img#ranmaru');
       mry2Img.id = 'yuutyan';
       //二番目の画像の説明
